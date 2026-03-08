@@ -1,0 +1,40 @@
+name: Add a GEO Resource
+description: Suggest a new resource to add to the Awesome GEO list
+title: "[Add]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+      placeholder: "e.g., GEOScore"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://example.com"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Tool
+        - Guide / Tutorial
+        - Research Paper
+        - Blog / Newsletter
+        - Community
+        - Technical Standard
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "Brief description of the resource and why it should be included"
+    validations:
+      required: true
