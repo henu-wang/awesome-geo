@@ -53,6 +53,13 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [Moz](https://moz.com) | SEO software with domain authority metrics and site auditing |
 | [Surfer SEO](https://surferseo.com) | Content optimization tool with AI writing assistant |
 
+### Open Source GEO Tools
+
+| Tool | Description |
+|------|-------------|
+| [AI Robots.txt Generator](https://github.com/henu-wang/ai-robots-txt-generator) | Generate optimized robots.txt files that allow AI search engine crawlers to index your site |
+| [GEO Scoring Methodology](https://github.com/henu-wang/geo-scoring-methodology) | Open methodology for scoring website readiness for AI search engines |
+
 ### AI Content & Structured Data Tools
 
 | Tool | Description |
@@ -188,3 +195,4 @@ If you know of a great GEO resource, tool, or article that should be listed here
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You are free to copy, modify, and distribute this work, even for commercial purposes, without asking permission.
+
