@@ -59,6 +59,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 |------|-------------|
 | [AI Robots.txt Generator](https://github.com/henu-wang/ai-robots-txt-generator) | Generate optimized robots.txt files that allow AI search engine crawlers to index your site |
 | [GEO Scoring Methodology](https://github.com/henu-wang/geo-scoring-methodology) | Open methodology for scoring website readiness for AI search engines |
+| [GEO Checklist](https://github.com/henu-wang/geo-checklist) | Interactive browser-based checklist to assess your website's AI search readiness ([try it](https://henu-wang.github.io/geo-checklist/)) |
 
 ### AI Content & Structured Data Tools
 
