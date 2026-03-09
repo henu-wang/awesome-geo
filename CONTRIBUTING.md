@@ -1,38 +1,60 @@
 # Contributing to Awesome GEO
 
-Thank you for your interest in contributing to Awesome GEO! This is a community-curated list of resources for Generative Engine Optimization.
+Thank you for your interest in contributing to the Awesome GEO list!
 
-## Guidelines
+## How to Contribute
 
-### What belongs here
+### Adding a Resource
 
-- Tools that help with AI search visibility and GEO
-- High-quality guides, tutorials, and articles about GEO
-- Research papers related to AI search engines and content optimization
-- Technical standards relevant to AI discoverability
-- Active communities discussing GEO topics
+1. **Fork** this repository
+2. **Add** your resource to the appropriate section in `README.md`
+3. **Follow** the existing format (tables or lists depending on the section)
+4. **Submit** a Pull Request
 
-### What doesn't belong
+### Resource Requirements
 
-- Paid link schemes or SEO spam tools
-- Low-quality or duplicate content
-- Tools/resources that are no longer maintained
+- Must be relevant to **Generative Engine Optimization (GEO)**
+- Must be high quality (no spam, PBNs, or low-quality content)
+- Must be active and maintained
+- Free or freemium tools preferred (paid tools OK if they offer free features)
+
+### Format
+
+#### For Tools (Table Format)
+```markdown
+| [Tool Name](https://url.com) | Brief description of what the tool does | Pricing info |
+```
+
+#### For Guides (List Format)
+```markdown
+- [Guide Title](https://url.com) — Brief description of the guide content.
+```
+
+### What We Accept
+
+- AI search visibility tools and scanners
+- Open source GEO tools and libraries
+- Comprehensive guides and tutorials about GEO
+- Research papers on AI search, RAG, or generative search
+- Technical standards (llms.txt, structured data, robots.txt for AI)
+- Industry-specific GEO resources
+- Blogs and newsletters covering GEO topics
+- Communities discussing GEO
+
+### What We Don't Accept
+
+- Spam or low-quality content
+- Tools that don't work or are abandoned
+- Duplicate resources (check if it's already listed)
 - Self-promotional content without genuine value
+- Resources unrelated to GEO/AI search
 
-### How to contribute
+## Questions?
 
-1. Fork this repository
-2. Add your resource in the appropriate section
-3. Use the format: `[Resource Name](URL) — Brief description`
-4. Submit a pull request with a clear description of what you're adding and why
-
-### Quality standards
-
-- Resources should be publicly accessible
-- Tools should be actively maintained
-- Articles should provide actionable, accurate information
-- Research papers should be from reputable sources
+- Open an [issue](https://github.com/henu-wang/awesome-geo/issues)
+- Check [GEOScore](https://geoscoreai.com) for more about GEO
+- Read [What is GEO?](https://geoscoreai.com/blog/what-is-geo) for background
 
 ## Code of Conduct
 
-Be respectful and constructive. We're all here to help the community learn about GEO.
+Be respectful and constructive. We welcome contributions from everyone.
