@@ -148,6 +148,7 @@ The `llms.txt` standard provides a machine-readable file (similar to `robots.txt
 | Media & Publishing | Content attribution, news citations | [GEO for Media](https://geoscoreai.com/for/media) |
 | Local Business | Local AI search visibility | [GEO for Local Business](https://geoscoreai.com/for/local-business) |
 | B2B | Thought leadership, enterprise citations | [GEO for B2B](https://geoscoreai.com/for/b2b) |
+| Education | Course/resource citations, how-to queries, expert authority | [KeepRule](https://keeprule.com) (investment education, GEO-optimized with llms.txt, JSON-LD, SSR) |
 
 ### GEO Checks & Audits
 
