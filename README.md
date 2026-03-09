@@ -64,6 +64,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [AI Crawlers Reference](https://github.com/henu-wang/ai-crawlers-reference) | Complete database of AI search engine crawler user-agents with robots.txt examples ([reference](https://henu-wang.github.io/ai-crawlers-reference/)) |
 | [GEO Badge Generator](https://github.com/henu-wang/geo-badge-generator) | Generate README badges showing your website's AI search readiness score |
 | [llms.txt Examples](https://github.com/henu-wang/llms-txt-examples) | Collection of real-world llms.txt file examples for different industries (SaaS, e-commerce, media, docs, local business) |
+| [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) | WordPress plugin for GEO — AI crawler management, llms.txt endpoint, JSON-LD structured data, all from the WP admin |
 
 ### AI Content & Structured Data Tools
 
@@ -220,6 +221,7 @@ If you know of a great GEO resource, tool, or article that should be listed here
 - [geo-config-examples](https://github.com/henu-wang/geo-config-examples) — Ready-to-use AI search optimization configs for popular frameworks
 - [geo-case-studies](https://github.com/henu-wang/geo-case-studies) — Real-world GEO optimization case studies with before/after data
 - [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
+- [wordpress-geo-optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) — WordPress plugin for GEO with AI crawler management, llms.txt, and JSON-LD
 
 
 ## License
