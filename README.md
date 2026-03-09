@@ -43,6 +43,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [GEOScore](https://geoscoreai.com) | AI-powered scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, llms.txt, content structure, and citation potential. | Free scan / $29 Pro report |
+| [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) | Free tool to instantly check if ChatGPT, Perplexity, Claude, and Gemini can crawl your website. Analyzes robots.txt for 12+ AI bots. | Free |
 
 ### Traditional SEO Tools with AI Features
 
@@ -70,6 +71,13 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [Schema.org Validator](https://validator.schema.org/) | Validate your structured data markup |
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Test your pages for rich result eligibility |
 | [JSON-LD Playground](https://json-ld.org/playground/) | Test and visualize JSON-LD structured data |
+
+### Free Online GEO Tools
+
+| Tool | Description |
+|------|-------------|
+| [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) | Generate an AI-optimized robots.txt file. Configure access for 12+ AI crawlers including ChatGPT, Perplexity, Claude, and Gemini |
+| [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) | Check which AI search engine crawlers can access your website. Instant robots.txt analysis |
 
 ---
 
