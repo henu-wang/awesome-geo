@@ -68,6 +68,9 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [llms.txt Examples](https://github.com/henu-wang/llms-txt-examples) | Collection of real-world llms.txt file examples for different industries (SaaS, e-commerce, media, docs, local business) |
 | [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) | WordPress plugin for GEO — AI crawler management, llms.txt endpoint, JSON-LD structured data, all from the WP admin |
 | [nextjs-geo-starter](https://github.com/henu-wang/nextjs-geo-starter) | Next.js starter template with built-in GEO optimization (robots.txt, llms.txt, JSON-LD, AI crawler middleware) |
+| [SEO + GEO Toolkit](https://github.com/henu-wang/seo-geo-toolkit) | Python tools for checking robots.txt AI access, structured data, llms.txt generation |
+| [GEO Docker + Nginx](https://github.com/henu-wang/geo-docker-nginx) | Server-level GEO configurations for Docker and Nginx |
+| [GEO WordPress Themes](https://github.com/henu-wang/geo-wordpress-themes) | WordPress theme snippets optimized for AI search |
 
 ### AI Content & Structured Data Tools
 
@@ -211,6 +214,12 @@ Curated articles covering GEO strategies, technical implementation, and industry
 - [GEO Playbook 2026](https://telegra.ph/The-GEO-Playbook-for-2026-Strategies-That-Actually-Work-03-09) — Strategies that actually work in 2026.
 - [Building a GEO-First Website](https://telegra.ph/Building-a-GEO-First-Website-from-Scratch-Architecture-Decisions-That-Matter-03-09) — Architecture decisions that matter when building from scratch.
 - [15 Free GEO Tools](https://telegra.ph/15-Free-Tools-for-AI-Search-Optimization-GEO-in-2026-03-09) — 15 free tools for AI search optimization in 2026.
+- [Funeral Services GEO Guide](https://telegra.ph/GEO-for-Funeral-and-Memorial-Services-The-Complete-2026-Guide-to-AI-Visibility-03-09) — The complete 2026 guide to AI visibility for funeral and memorial services.
+- [Yacht & Marine GEO](https://telegra.ph/GEO-for-Yacht-and-Marine-Industry-How-to-Dominate-AI-Search-in-2026-03-09) — How to dominate AI search in 2026 for the yacht and marine industry.
+- [Tattoo Studios GEO](https://telegra.ph/GEO-for-Tattoo-and-Body-Art-Studios-Get-Found-by-AI-in-2026-03-09) — Get found by AI in 2026 for tattoo and body art studios.
+- [Museum GEO Guide](https://telegra.ph/GEO-for-Museums-and-Cultural-Institutions-A-Complete-Guide-03-09) — A complete guide for museums and cultural institutions.
+- [Podcast GEO](https://telegra.ph/How-to-Optimize-Your-Podcast-Website-for-AI-Search-Engines-03-09) — How to optimize your podcast website for AI search engines.
+- [Auto Dealership GEO](https://telegra.ph/Auto-Dealership-GEO-Getting-Found-by-AI-Assistants-03-09) — Getting found by AI assistants for auto dealerships.
 
 ---
 
@@ -221,6 +230,10 @@ GEO 中文指南与教程。
 - [什么是GEO？完全指南](https://telegra.ph/%E4%BB%80%E4%B9%88%E6%98%AFGEOAI%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%972026-03-09) — AI搜索引擎优化完全指南（2026）。
 - [如何让网站被ChatGPT引用](https://telegra.ph/%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%A2%ABChatGPT%E5%92%8CPerplexity%E5%BC%95%E7%94%A8-03-09) — 如何让你的网站被ChatGPT和Perplexity引用。
 - [AI爬虫管理指南](https://telegra.ph/2026%E5%B9%B4AI%E7%88%AC%E8%99%AB%E7%AE%A1%E7%90%86%E6%8C%87%E5%8D%97GPTBotClaudeBotPerplexityBot-03-09) — 2026年AI爬虫管理指南：GPTBot、ClaudeBot、PerplexityBot。
+- [医疗健康GEO](https://telegra.ph/医疗健康行业的AI搜索优化完整指南-03-09) — 医疗健康行业的AI搜索优化完整指南。
+- [旅游行业GEO](https://telegra.ph/旅游行业如何优化AI搜索引擎排名GEO实战指南-03-09) — 旅游行业如何优化AI搜索引擎排名GEO实战指南。
+- [教育培训GEO](https://telegra.ph/教育培训机构的AI搜索优化实战指南-03-09) — 教育培训机构的AI搜索优化实战指南。
+- [本地商家GEO](https://telegra.ph/本地服务商家如何被AI搜索引擎推荐-03-09) — 本地服务商家如何被AI搜索引擎推荐。
 
 ---
 
@@ -251,6 +264,9 @@ If you know of a great GEO resource, tool, or article that should be listed here
 - [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
 - [wordpress-geo-optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) — WordPress plugin for GEO with AI crawler management, llms.txt, and JSON-LD
 - [nextjs-geo-starter](https://github.com/henu-wang/nextjs-geo-starter) — Next.js starter template with built-in GEO optimization
+- [seo-geo-toolkit](https://github.com/henu-wang/seo-geo-toolkit) — Python tools for checking robots.txt AI access, structured data, llms.txt generation
+- [geo-docker-nginx](https://github.com/henu-wang/geo-docker-nginx) — Server-level GEO configurations for Docker and Nginx
+- [geo-wordpress-themes](https://github.com/henu-wang/geo-wordpress-themes) — WordPress theme snippets optimized for AI search
 
 
 ## License
