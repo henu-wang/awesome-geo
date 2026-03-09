@@ -63,6 +63,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [GEO Checklist](https://github.com/henu-wang/geo-checklist) | Interactive browser-based checklist to assess your website's AI search readiness ([try it](https://henu-wang.github.io/geo-checklist/)) |
 | [AI Crawlers Reference](https://github.com/henu-wang/ai-crawlers-reference) | Complete database of AI search engine crawler user-agents with robots.txt examples ([reference](https://henu-wang.github.io/ai-crawlers-reference/)) |
 | [GEO Badge Generator](https://github.com/henu-wang/geo-badge-generator) | Generate README badges showing your website's AI search readiness score |
+| [llms.txt Examples](https://github.com/henu-wang/llms-txt-examples) | Collection of real-world llms.txt file examples for different industries (SaaS, e-commerce, media, docs, local business) |
 
 ### AI Content & Structured Data Tools
 
