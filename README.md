@@ -16,6 +16,8 @@ As AI search engines reshape how people discover information, GEO is becoming es
 - [Industry Resources](#industry-resources)
 - [Blogs & Newsletters](#blogs--newsletters)
 - [Communities](#communities)
+- [GEO Guides & Articles](#geo-guides--articles)
+- [中文资源 (Chinese Resources)](#中文资源-chinese-resources)
 - [Contributing](#contributing)
 
 ---
@@ -65,6 +67,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [GEO Badge Generator](https://github.com/henu-wang/geo-badge-generator) | Generate README badges showing your website's AI search readiness score |
 | [llms.txt Examples](https://github.com/henu-wang/llms-txt-examples) | Collection of real-world llms.txt file examples for different industries (SaaS, e-commerce, media, docs, local business) |
 | [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) | WordPress plugin for GEO — AI crawler management, llms.txt endpoint, JSON-LD structured data, all from the WP admin |
+| [nextjs-geo-starter](https://github.com/henu-wang/nextjs-geo-starter) | Next.js starter template with built-in GEO optimization (robots.txt, llms.txt, JSON-LD, AI crawler middleware) |
 
 ### AI Content & Structured Data Tools
 
@@ -196,6 +199,31 @@ The `llms.txt` standard provides a machine-readable file (similar to `robots.txt
 
 ---
 
+## GEO Guides & Articles
+
+Curated articles covering GEO strategies, technical implementation, and industry trends.
+
+- [How AI Search Engines Rank Your Content](https://telegra.ph/How-AI-Search-Engines-Rank-Your-Content-A-Technical-Deep-Dive-03-09) — A technical deep dive into AI search ranking mechanisms.
+- [Complete Guide to robots.txt for AI Crawlers](https://telegra.ph/The-Complete-Guide-to-robotstxt-for-AI-Crawlers-in-2026-03-09) — Everything you need to know about configuring robots.txt for AI crawlers in 2026.
+- [How to Create an llms.txt File](https://telegra.ph/How-to-Create-an-llmstxt-File-Step-by-Step-Guide-with-Examples-03-09) — Step-by-step guide with examples for implementing llms.txt.
+- [Structured Data Deep Dive for GEO](https://telegra.ph/Structured-Data-Deep-Dive-Every-Schemaorg-Type-That-Matters-for-GEO-03-09) — Every Schema.org type that matters for GEO.
+- [SEO vs GEO: 10 Key Differences](https://telegra.ph/Traditional-SEO-vs-GEO-10-Key-Differences-Every-Marketer-Should-Know-03-09) — 10 key differences every marketer should know.
+- [GEO Playbook 2026](https://telegra.ph/The-GEO-Playbook-for-2026-Strategies-That-Actually-Work-03-09) — Strategies that actually work in 2026.
+- [Building a GEO-First Website](https://telegra.ph/Building-a-GEO-First-Website-from-Scratch-Architecture-Decisions-That-Matter-03-09) — Architecture decisions that matter when building from scratch.
+- [15 Free GEO Tools](https://telegra.ph/15-Free-Tools-for-AI-Search-Optimization-GEO-in-2026-03-09) — 15 free tools for AI search optimization in 2026.
+
+---
+
+## 中文资源 (Chinese Resources)
+
+GEO 中文指南与教程。
+
+- [什么是GEO？完全指南](https://telegra.ph/%E4%BB%80%E4%B9%88%E6%98%AFGEOAI%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%972026-03-09) — AI搜索引擎优化完全指南（2026）。
+- [如何让网站被ChatGPT引用](https://telegra.ph/%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%A2%ABChatGPT%E5%92%8CPerplexity%E5%BC%95%E7%94%A8-03-09) — 如何让你的网站被ChatGPT和Perplexity引用。
+- [AI爬虫管理指南](https://telegra.ph/2026%E5%B9%B4AI%E7%88%AC%E8%99%AB%E7%AE%A1%E7%90%86%E6%8C%87%E5%8D%97GPTBotClaudeBotPerplexityBot-03-09) — 2026年AI爬虫管理指南：GPTBot、ClaudeBot、PerplexityBot。
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
@@ -222,6 +250,7 @@ If you know of a great GEO resource, tool, or article that should be listed here
 - [geo-case-studies](https://github.com/henu-wang/geo-case-studies) — Real-world GEO optimization case studies with before/after data
 - [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
 - [wordpress-geo-optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) — WordPress plugin for GEO with AI crawler management, llms.txt, and JSON-LD
+- [nextjs-geo-starter](https://github.com/henu-wang/nextjs-geo-starter) — Next.js starter template with built-in GEO optimization
 
 
 ## License
