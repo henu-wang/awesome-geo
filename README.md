@@ -203,6 +203,25 @@ If you know of a great GEO resource, tool, or article that should be listed here
 
 ---
 
+## Related GEO Resources
+
+### Free Tools
+- [GEOScore AI Scanner](https://geoscoreai.com) — Check your website's AI search visibility across 11 signals
+- [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) — Generate optimized robots.txt for AI crawlers
+- [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) — Verify which AI bots can access your site
+
+### Open Source Projects
+- [geo-scoring-methodology](https://github.com/henu-wang/geo-scoring-methodology) — Open methodology for scoring AI search readiness
+- [ai-robots-txt-generator](https://github.com/henu-wang/ai-robots-txt-generator) — Generate optimized robots.txt for AI crawlers
+- [geo-checklist](https://github.com/henu-wang/geo-checklist) — Interactive pre-launch GEO readiness checklist
+- [ai-crawlers-reference](https://github.com/henu-wang/ai-crawlers-reference) — Complete database of AI search engine crawler user-agents
+- [geo-badge-generator](https://github.com/henu-wang/geo-badge-generator) — Generate badges showing your GEO readiness score
+- [llms-txt-examples](https://github.com/henu-wang/llms-txt-examples) — Real-world llms.txt implementation examples by industry
+- [geo-config-examples](https://github.com/henu-wang/geo-config-examples) — Ready-to-use AI search optimization configs for popular frameworks
+- [geo-case-studies](https://github.com/henu-wang/geo-case-studies) — Real-world GEO optimization case studies with before/after data
+- [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
+
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
