@@ -46,6 +46,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 |------|-------------|---------|
 | [GEOScore](https://geoscoreai.com) | AI-powered scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, llms.txt, content structure, and citation potential. | Free scan / $29 Pro report |
 | [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) | Free tool to instantly check if ChatGPT, Perplexity, Claude, and Gemini can crawl your website. Analyzes robots.txt for 12+ AI bots. | Free |
+| [AnswerLens](https://app.sfdj.net/) | Free public-evidence scan for B2B SaaS sites, checking crawlable URLs, `llms.txt`, pricing, comparison, and proof pages before a paid report path. | Free scan / $79 paid report |
 
 ### Traditional SEO Tools with AI Features
 
@@ -274,4 +275,3 @@ If you know of a great GEO resource, tool, or article that should be listed here
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You are free to copy, modify, and distribute this work, even for commercial purposes, without asking permission.
-
