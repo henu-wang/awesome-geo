@@ -70,6 +70,7 @@ Learn more: [What is GEO? A Complete Guide](https://geoscoreai.com/blog/what-is-
 | [nextjs-geo-starter](https://github.com/henu-wang/nextjs-geo-starter) | Next.js starter template with built-in GEO optimization (robots.txt, llms.txt, JSON-LD, AI crawler middleware) |
 | [SEO + GEO Toolkit](https://github.com/henu-wang/seo-geo-toolkit) | Python tools for checking robots.txt AI access, structured data, llms.txt generation |
 | [GEO Docker + Nginx](https://github.com/henu-wang/geo-docker-nginx) | Server-level GEO configurations for Docker and Nginx |
+| [Prerender Buddy CLI](https://github.com/kopachlager/prerenderbuddy-cli) | Command-line tool for checking crawler visibility and comparing raw vs rendered page output for AI search-readiness |
 | [GEO WordPress Themes](https://github.com/henu-wang/geo-wordpress-themes) | WordPress theme snippets optimized for AI search |
 
 ### AI Content & Structured Data Tools
@@ -274,4 +275,3 @@ If you know of a great GEO resource, tool, or article that should be listed here
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You are free to copy, modify, and distribute this work, even for commercial purposes, without asking permission.
-
